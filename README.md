@@ -22,7 +22,7 @@ Doresc sa aduc aici cateva observatii si intrebari deschise care sper sa fie de 
 
 ## Obiective
 
-* Din toate activitatile din ultimele zile se pare ca va fi nevoie de 2 proiecte online care sa mearga in paralele:
+* Din toate activitatile din ultimele zile se pare ca va fi nevoie de 2 proiecte online care sa mearga in paralel:
   - un proiect care sa colecteze revendicarile de pe platformele care tiparesc astfel de platforme si cumva sa le creeze un spatiu de discutie.
   - si de aceasta platforma de nominalizare
 
