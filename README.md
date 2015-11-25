@@ -40,8 +40,3 @@ Doresc sa aduc aici cateva observatii si intrebari deschise care sper sa fie de 
 
 * Sunt oameni care vor sa ajute. Din ce domenii ar fi trebui invitate persoane pentru ar aduce valoare proiectului?
 * Care ar fi cea mai impartiala metoda de finantare?
-
-## 1 Decembrie
-
-* Este o data care va fi cu mare incarcare emotionala.
-* Ar fi o solutie sa punem pe pauza colectarea nominalizarilor si sa anuntam lansarea sistemului de votare pe 1 Decembrie 2015? In aceste saptamani ramase sa fie dezvoltate noi feature-uri, sa se faca clipuri video despre acest eveniment, sa se stabileasca regulile, iar in ultimele zile ale lui noiembrie sa apara filmulete video in care sa fie explicate functionalitatile.
